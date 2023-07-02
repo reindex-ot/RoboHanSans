@@ -10,6 +10,6 @@ SIL Open Font License 1.1
 ## Thanks
 
 - [googlefonts/Roboto](https://github.com/googlefonts/roboto): Roboto
-- [源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans): Noto Sans JP
+- [源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans): Source Han Sans
 - [nowar-fonts/Warcraft-Font-Merger](https://github.com/nowar-fonts/Warcraft-Font-Merger): 合成フォントの作成に使用
 - [FontForge](https://fontforge.org/): フォントの情報などの編集に使用
