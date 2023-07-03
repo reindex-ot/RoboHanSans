@@ -1,4 +1,4 @@
-# Roboto + 源ノ角ゴシック
+# RoboHanSans
 
 Robotoと源ノ角ゴシック(Source Han Sans)の合成フォントです。
 
